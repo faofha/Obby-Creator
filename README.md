@@ -8,5 +8,3 @@
 - [ ] Make a Decompiler for obbies.
   - Can select between normal Obby Creator Parts or EToH Kit.
 - [ ] Make a music chooser in the Plugins tab.
-- [ ] Add lock to each part's properties.
-  - (https://discord.com/channels/460407394971942922/1517767840097239100/1517767840097239100)
